@@ -3,7 +3,7 @@
 > [!NOTE]
 > При наведении курсора на фигуру закрашивать ее желтым цветом:
 
-![Задача](src/main/resources/com/example/testshapes/Images/task.png)
+![Задача](src/main/resources/Images/task.png)
 
 > [!IMPORTANT]
 > Реализация класса-теста `TestHighlightCircle`:
@@ -151,6 +151,6 @@ double x=200, y=200;
 ```
 В текущем примере, объект Circle имеет заданную по умолчанию ширину=высоту=35, а координаты центра круга x=200 и y=200;
 что не попадает ни в один заданный testCase, соотвественно тест будет провален.
-![Выполнение теста](src/main/resources/com/example/testshapes/Images/img.png)
-![Выполнение задачи](src/main/resources/com/example/testshapes/Images/ezgif-2-925520e0cb.gif)
+![Выполнение теста](src/main/resources/Images/img.png)
+![Выполнение задачи](src/main/resources/Images/ezgif-2-925520e0cb.gif)
 
