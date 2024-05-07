@@ -19,42 +19,13 @@ import java.util.List;
 import java.util.Random;
 
 public class TestHighlightCircle {
-//    private Shape figure;
-//    private Color originalFill;
-//    private Color highlightedFill;
-//    private Color originalBorderFill;
-//    private Color highlightedBorderFill;
-//
-//    public TestHighlightCircle(Shape figure) {
-//
-////        this.figure = figure;
-////        this.originalFill = figure.getColorFill();
-////        this.highlightedFill = Color.YELLOW;
-////        this.originalBorderFill = figure.getColorBorder();
-////        this.highlightedBorderFill = Color.YELLOW;
-//
-////        canvas.setOnMouseEntered(enteredHandler);
-////        canvas.setOnMouseExited(exitedHandler);
-//    }
-//
-//    private void enteredHandler() {
-//        figure.setColorFill(highlightedFill);
-//        figure.setColorBorder(highlightedBorderFill);
-//    }
-//
-//    ;
-//
-//    // Метод для установки цвета выделения
-//    public void setHighlightedFill(Color color1, Color color2) {
-//        this.highlightedFill = color1;
-//        this.highlightedBorderFill = color2;
-//    }
+
 Random rnd =new Random();
     public static void main(String[] args) {
         double x=200, y=200;
         List<List<Shape>>shapes=generate(x,y);
         List<Shape> tests = shapes.get(0);
-     //   solve(tests);,
+  
         check(shapes,solve(tests,x,y));
     }
 
