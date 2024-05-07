@@ -125,7 +125,9 @@ static boolean check=false;
 
 - [__Реализация клаcса__](src/main/java/Models/Shape.java) `Shape`
 - [__Реализация класcа__](src/main/java/Models/Circle.java) `Circle`
-- [__Реализация клаcса__](src/main/java/Models/Rectangle.java) `Square`
+- [__Реализация клаcса__](src/main/java/Models/Rectangle.java) `Rectangle`
+- - [__Реализация клаcса__](src/main/java/Models/Triangle.java) `Triangle`
+
 > [!NOTE]
 > Проверка теста:
 Зададим координаты курсора:
