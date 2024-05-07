@@ -123,10 +123,10 @@ static boolean check=false;
 
 > [__Содержимое класса приложения__](src/main/java/com/example/testshapes/HelloApplication.java) `HelloApplication`
 
-- [__Реализация клаcса__](src/main/java/Models/Shape.java) `Shape`
-- [__Реализация класcа__](src/main/java/Models/Circle.java) `Circle`
-- [__Реализация клаcса__](src/main/java/Models/Rectangle.java) `Rectangle`
-- - [__Реализация клаcса__](src/main/java/Models/Triangle.java) `Triangle`
+- [__Реализация клаcса__](src/main/java/com/example/testshapes/Models/Shape.java) `Shape`
+- [__Реализация класcа__](src/main/java/com/example/testshapes/Models/Circle.java) `Circle`
+- [__Реализация клаcса__](src/main/java/com/example/testshapes/Models/Rectangle.java) `Rectangle`
+- - [__Реализация клаcса__](src/main/java/com/example/testshapes/Models/Triangle.java) `Triangle`
 
 > [!NOTE]
 > Проверка теста:
